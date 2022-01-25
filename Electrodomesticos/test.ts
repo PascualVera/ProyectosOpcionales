@@ -51,6 +51,5 @@ el precio total de electrodomesticos es de ${
     precioTelevisiones + precioLavadoras + precioElectrodomesticos
   }`);
 };
-console.log(tele1.precioFinal());
 
 printAll(arrayArticulos);
